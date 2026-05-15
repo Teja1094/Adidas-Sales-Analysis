@@ -15,7 +15,15 @@ Improve inventory planning and sales optimization strategies.
 3. Project Overview 
 The Adidas Sales Analysis project focuses on transforming raw sales data into meaningful business intelligence using Power BI. The dashboard will help stakeholders understand sales behavior, customer demand, retailer performance, and profitability trends across different regions and products.
 
-4.Future Enhancements
+4.Tools & Technologies Used 
+  Tools                                                                   Purpose
+Microsoft Powerbi                                           Data Visualization and Dashboard Creation
+Excel/CSV Dataset                                         Data Source
+Power Query                                                   Data Cleaning and Transformation
+DAX                                                                 Data Calculation and KPI Generation
+
+
+5.Future Enhancements
 
 Integration with live cloud databases
 AI-based sales forecasting
@@ -27,7 +35,7 @@ Drill-through detailed reports
 Real-time data refresh automation
 Integration with ERP/CRM systems
 
-5.Conclusion
+6.Conclusion
 
 The Adidas Sales Analysis Dashboard developed using Microsoft Power BI successfully transforms raw sales data into meaningful visual insights that support strategic business decisions. The dashboard provides comprehensive analysis of sales, profit, regional performance, product trends, and retailer contributions through interactive visualizations and KPI metrics. By leveraging DAX calculations, filters, slicers, and dynamic charts, the project enables efficient performance monitoring and business analysis. Overall, the project demonstrates the power of business intelligence tools in improving operational efficiency, identifying growth opportunities, and supporting data-driven decision-making within an organization.
 
