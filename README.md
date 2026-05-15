@@ -18,9 +18,9 @@ The Adidas Sales Analysis project focuses on transforming raw sales data into me
 4.Tools & Technologies Used 
   Tools                                                                   Purpose
 Microsoft Powerbi                                           Data Visualization and Dashboard Creation
-Excel/CSV Dataset                                         Data Source
-Power Query                                                   Data Cleaning and Transformation
-DAX                                                                 Data Calculation and KPI Generation
+Excel/CSV Dataset                                           Data Source
+Power Query                                                 Data Cleaning and Transformation
+DAX                                                         Data Calculation and KPI Generation
 
 
 5.Future Enhancements
